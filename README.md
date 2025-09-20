@@ -39,11 +39,11 @@ Add title, description, due date, priority and status.
 
 Default status: Pending.
 
-## Dashboard
+# Dashboard
 
-# Displays:
+## Displays:
 
-````Total tasks```
+```Total tasks```
 
 Completed tasks
 
@@ -53,7 +53,7 @@ Pending tasks
 
 Recent tasks list
 
-# Tech Stack
+## Tech Stack
 
 ```Frontend```
 
@@ -75,7 +75,7 @@ MongoDB (Mongoose ODM)
 
 CORS, Dotenv
 
-# Deployment
+## Deployment
 
 Netlify
 
@@ -126,10 +126,10 @@ npm run dev
 
 # Future Enhancements
 
-# User authentication (Login/Register).
+ User authentication (Login/Register).
 
-# Task search & sorting.
+ Task search & sorting.
 
-# Advanced analytics dashboard.
+ Advanced analytics dashboard.
 
-# Dark mode for better UI/UX.
+ Dark mode for better UI/UX.
