@@ -80,8 +80,8 @@ CORS, Dotenv
 Netlify
 
 
+'''📂 Project Structure
 
-📂 Project Structure
 TASK-MANAGEMENT-SYSTEM/
 │── backend/         # Node.js + Express API
 │   ├── models/      # Mongoose models
@@ -93,8 +93,9 @@ TASK-MANAGEMENT-SYSTEM/
 │   ├── src/pages/   # TaskList, TaskForm, TaskDetails, Dashboard
 │   ├── src/App.jsx  # Frontend entry
 │   └── package.json
-
+'''
 ## Setup Instructions
+
 1️⃣ ```Clone the repository```
 git clone https://github.com/piyushmishra8008/TASK-MANAGEMENT-SYSTEM.git
 cd TASK-MANAGEMENT-SYSTEM
@@ -107,7 +108,7 @@ npm install
 Create a .env file in the backend folder:
 
 PORT=5000
-MONGO_URI=your_mongodb_connection_string
+MONGO_URI
 
 
 ## Run the backend:
